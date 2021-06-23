@@ -5,13 +5,21 @@
 
 发现排版问题请发 issue 或 PR。
 ## Download
-因为总所周知的原因，GitHub 可能不是很稳定，国内可选择 Jsdelivr（可能有延迟）。
+因为总所周知的原因，GitHub 可能不是很稳定。
 - Markdown 版本
 	- [GitHub 下载](https://github.com/ciallowo/china-law-markdown/releases/)
-	- [Jsdelivr 国内下载](https://cdn.jsdelivr.net/gh/ciallowo/china-law-markdown)
 - PDF 版本	
 	- [GitHub 下载](https://github.com/ciallowo/china-law-markdown/releases/)
-	- [Jsdelivr 国内下载](https://cdn.jsdelivr.net/gh/ciallowo/china-law-markdown)
+## TODO
+有需求请提交 issue。
+- 目前已排版的
+	- 民法典
+	- 刑法
+	- 民事诉讼法
+- TODO
+	- 刑事诉讼法
+	- 行政诉讼法
+	- ……
 ## LICENSE
 本作品来自中华人民共和国法律。依据《中华人民共和国著作权法》第五条，本作品不适用于该法，所以属于公有领域。
 
