@@ -1,15 +1,15 @@
 # 万物皆可 Markdown 之中国大陆现行法⚖️
 精修 Markdown 版本中国大陆现行法，~~配合无缝跳转的 TOC~~（目前仅民法典版本有 TOC），热爱法律热爱生活的你还不赶紧下载（顺便点个 Star😋
 
-项目已更名，将不再以民法典为限，而是扩展到所有中国先行法。
+项目已更名，将不再以民法典为限，而是扩展到所有中国现行法。
 
 发现排版问题请发 issue 或 PR。
 ## Download
 因为总所周知的原因，GitHub 可能不是很稳定。
 - Markdown 版本
-	- [GitHub 下载](https://github.com/ciallowo/china-law-markdown/releases/)
+	- [GitHub 下载](https://github.com/ciallowo/china-law-markdown/tree/master/markdown)
 - PDF 版本	
-	- [GitHub 下载](https://github.com/ciallowo/china-law-markdown/releases/)
+	- [GitHub 下载](https://github.com/ciallowo/china-law-markdown/tree/master/pdf)
 ## TODO
 有需求请提交 issue。
 - 目前已排版的
